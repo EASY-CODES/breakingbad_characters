@@ -22,7 +22,7 @@ A api utilizada encontra-se no seguinte [link](https://breakingbadapi.com/).
 </table>
 
 # 📕 Licença
-A licença utilizada no projeto é a MIT. Para mais detalhes leia [LICENSE](LICENSE
+A licença utilizada no projeto é a MIT. Para mais detalhes leia [LICENSE](LICENSE.md)
 
 # 🍀Contributing
 1. Fork it (<https://github.com/iamageo/breakingbad_characters/fork>)
